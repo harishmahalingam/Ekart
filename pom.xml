@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>ekart</name>
-    <description>Demo project for Spring Boot ekart</description>
+    <description>This is our new mini project</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
